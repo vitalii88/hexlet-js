@@ -1,5 +1,6 @@
 {
   "name": "hexlet-js",
+  "type": "module",
   "version": "1.0.0",
   "description": "First Hexlet-js project",
   "main": "index.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vitalii88/hexlet-js/issues"
   },
-  "homepage": "https://github.com/vitalii88/hexlet-js#readme"
+  "homepage": "https://github.com/vitalii88/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
