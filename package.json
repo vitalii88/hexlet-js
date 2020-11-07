@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "First Hexlet-js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalii88/hexlet-js.git"
+  },
+  "author": "vitalii88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalii88/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vitalii88/hexlet-js#readme"
+}
